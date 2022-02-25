@@ -8,3 +8,4 @@ Qbasics
     Right click to move backward
     Left click to move forward
 ## License    
+[apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
